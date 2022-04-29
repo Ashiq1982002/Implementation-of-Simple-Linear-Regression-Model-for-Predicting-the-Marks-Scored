@@ -47,7 +47,7 @@ plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
 plt.scatter(X_test,Y_test,color="blue")
-plt.plot(X_train,regressor.predict(X_train),color="brown![Screenshot (10)](https://user-images.githubusercontent.com/93427345/162911172-55fef480-7db3-4d81-b069-feb5782bb30c.png)") 
+plt.plot(X_train,regressor.predict(X_train),color="brown")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
@@ -57,6 +57,7 @@ plt.show()
 
 ## Output:
 ![sandy](https://user-images.githubusercontent.com/104640895/165984008-bced3eb4-55f7-4cd4-9795-6d5056a96ae0.png)
+![162911373-41529fba-1a38-47ab-9bec-48f972e51a61](https://user-images.githubusercontent.com/104640895/165984233-ba119824-c451-482d-8c59-588c59f01364.png)
 
 
 
